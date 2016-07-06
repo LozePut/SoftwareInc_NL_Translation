@@ -76,69 +76,69 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 		</Categories>
 	</Software>
 	<Software Name="2D Editor">
-		<Name>2D Editor</Name>
-		<Description>Program that allows you to handle 2 dimensional arrays of color information</Description>
+		<Name>2D Bewerker</Name>
+		<Description>Programma die u toelaat om met 2 Dimensionaal arrays van kleur informatie</Description>
 		<Features>
 			<Feature Name="Image rendering">
-				<Name>Image rendering</Name>
-				<Description>Actually display an image on the screen</Description>
+				<Name>Afbeelding weergave</Name>
+				<Description>Laat een afbeelding op het scherm zien.</Description>
 			</Feature>
 			<Feature Name="Pixel manipulation">
-				<Name>Pixel manipulation</Name>
+				<Name>Pixel manipulatie</Name>
 			</Feature>
 			<Feature Name="Advanced brushes">
-				<Name>Advanced brushes</Name>
+				<Name>Geavanceerde kwasten</Name>
 			</Feature>
 			<Feature Name="Image effects">
-				<Name>Image effects</Name>
-				<Description>Needs more swirl</Description>
+				<Name>Afbeelding effecten.</Name>
+				<Description>Heeft meer (swirl) nodig</Description>
 			</Feature>
 			<Feature Name="Cinematic filter">
-				<Name>Cinematic filter</Name>
-				<Description>Instant professionalism</Description>
+				<Name>Filmische filter</Name>
+				<Description>Direct professionalisme</Description>
 			</Feature>
 			<Feature Name="Image compression">
-				<Name>Image compression</Name>
+				<Name>Afbeelding samendrukken</Name>
 			</Feature>
 			<Feature Name="Video editing">
-				<Name>Video editing</Name>
+				<Name>Video bewerking</Name>
 			</Feature>
 			<Feature Name="Video codec">
 				<Name>Video codec</Name>
 			</Feature>
 			<Feature Name="Stock library">
-				<Name>Stock library</Name>
+				<Name>Voorraad bibliotheek</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="3D Editor">
-		<Name>3D Editor</Name>
+		<Name>3D Bewerker</Name>
 		<Description>Points in space, basically</Description>
 		<Features>
 			<Feature Name="Vertex editing">
-				<Name>Vertex editing</Name>
-				<Description>Move points in space around on the screen</Description>
+				<Name>Punten bewerken</Name>
+				<Description>Beweeg punten in het gebied op het scherm</Description>
 			</Feature>
 			<Feature Name="Rendering">
-				<Name>Rendering</Name>
-				<Description>Process the points into a picture</Description>
+				<Name>Weergave</Name>
+				<Description>Verwerk de punten in een beeld</Description>
 			</Feature>
 			<Feature Name="Animation">
-				<Name>Animation</Name>
-				<Description>Make the points move themselves</Description>
+				<Name>Animatie</Name>
+				<Description>Maak zelfbewegende punten</Description>
 			</Feature>
 			<Feature Name="Sculpting">
-				<Name>Sculpting</Name>
-				<Description>Pretend the points are clay</Description>
+				<Name>Beeldhouwen</Name>
+				<Description>Doe alsof de punten klei zijn</Description>
 			</Feature>
 			<Feature Name="Voxel sculpting">
-				<Name>Voxel sculpting</Name>
-				<Description>Everything is a point</Description>
+				<Name>Voxel beeldhouwen</Name>
+				<Description>Alles is een punt</Description>
 			</Feature>
 			<Feature Name="Physics">
-				<Name>Physics</Name>
-				<Description>Make the points interact</Description>
+				<Name>Fysica</Name>
+				<Description>Laat de punten op elkaar inwerken</Description>
 			</Feature>
 			<Feature Name="Realistic hair">
 				<Name>Realistic hair</Name>
