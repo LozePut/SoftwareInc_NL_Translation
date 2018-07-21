@@ -25,7 +25,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 				<Description>Gebruiker kan zo communiceren met het besturingssysteem in een aantal manieren</Description>
 			</Feature>
 			<Feature Name="Touch">
-				<Name>Aanraken</Name>
+				<Name>Touch</Name>
 				<Description>Je kunt nooit genoeg vette vingerafdrukken op een oppervlak hebben</Description>
 			</Feature>
 			<Feature Name="Multithreading">
@@ -141,100 +141,100 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 				<Description>Laat de punten op elkaar inwerken</Description>
 			</Feature>
 			<Feature Name="Realistic hair">
-				<Name>Realistic hair</Name>
-				<Description>Make lines between the points</Description>
+				<Name>Realistisch haar</Name>
+				<Description></Description>
 			</Feature>
 			<Feature Name="Particles">
 				<Name>Particles</Name>
 				<Description>Spray points all over the place</Description>
 			</Feature>
 			<Feature Name="Liquid simulation">
-				<Name>Liquid simulation</Name>
-				<Description>Spill points all over the place</Description>
+				<Name>Vloeistof simulation</Name>
+				<Description>Laat water realistisch stromen</Description>
 			</Feature>
 			<Feature Name="PBR">
 				<Name>PBR</Name>
-				<Description>Physically Based Rendering simulates photons reacting with the points</Description>
+				<Description>Op natuurkunde gebaseerd systeem simuleert lichtdeeltjes reageren met objecten</Description>
 			</Feature>
 			<Feature Name="Distributed rendering">
-				<Name>Distributed rendering</Name>
-				<Description>Process the points into a picture on many computers at once</Description>
+				<Name>Gedistribueerde weergave</Name>
+				<Description>Render op meerdere computers</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Audio Tool">
 		<Name>Audio Tool</Name>
-		<Description>The audio tool is for recording and mixing sound effects and music.</Description>
+		<Description>De audio tool is er voor mixen en opnemen van muziek.</Description>
 		<Features>
 			<Feature Name="Audio playback">
-				<Name>Audio playback</Name>
+				<Name>Audio terug spelen</Name>
 			</Feature>
 			<Feature Name="Recording">
-				<Name>Recording</Name>
+				<Name>Opnemen</Name>
 			</Feature>
 			<Feature Name="Music editor">
 				<Name>Music editor</Name>
 			</Feature>
 			<Feature Name="Virtual instruments">
-				<Name>Virtual instruments</Name>
-				<Description>Guitar? MIDI Keyboard. Violin? MIDI Keyboard. Drums? MIDI Keyboard. Saxophone? Yes.</Description>
+				<Name>Virtuele instrumenten</Name>
+				<Description>Gitaar? MIDI Keyboard. viool? MIDI Keyboard. Drums? MIDI Keyboard. Saxofoon? Yes.</Description>
 			</Feature>
 			<Feature Name="Sound library">
-				<Name>Sound library</Name>
+				<Name>Geluids bibliotheek</Name>
 			</Feature>
 			<Feature Name="Instrument library">
-				<Name>Instrument library</Name>
+				<Name>Instrument bibliotheek</Name>
 			</Feature>
 			<Feature Name="Autotune">
 				<Name>Autotune</Name>
-				<Description>This is a thing</Description>
+				<Description></Description>
 			</Feature>
 			<Feature Name="Audio compression">
-				<Name>Audio compression</Name>
+				<Name>Audiocompressie</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Game Engine">
 		<Name>Game Engine</Name>
-		<Description>The game engine is what powers a game. It contains everything needed for a game, except for the creativity.</Description>
+		<Description>Een game engine is wat een game draaiende houd. Er zit alles in voor een game, behalve creativiteit.</Description>
 		<Features>
 			<Feature Name="Text-based">
-				<Name>Text-based</Name>
+				<Name>Op tekst gebaseerd</Name>
 			</Feature>
 			<Feature Name="2D rendering">
-				<Name>2D rendering</Name>
+				<Name>2D weergave</Name>
 			</Feature>
 			<Feature Name="Visual editor">
-				<Name>Visual editor</Name>
-				<Description>Drag'n'drop is the best</Description>
+				<Name>Visuele editor</Name>
+				<Description>Drag'n'drop is het beste</Description>
 			</Feature>
 			<Feature Name="2D assets">
 				<Name>2D assets</Name>
-				<Description>Help the developer along with some prepackaged assets</Description>
+				<Description>Help de developer met assets</Description>
 			</Feature>
 			<Feature Name="3D rendering">
 				<Name>3D rendering</Name>
 			</Feature>
 			<Feature Name="3D assets">
 				<Name>3D assets</Name>
-				<Description>Like 2D assets, but with an extra dimension</Description>
+				<Description>Zoals 2d, maar met een extra dimensie</Description>
 			</Feature>
 			<Feature Name="VR">
 				<Name>VR</Name>
 				<Description>Virtual reality</Description>
 			</Feature>
 			<Feature Name="Advanced shaders">
-				<Name>Advanced shaders</Name>
-				<Description>Not everything has to be flat! The irony is not lost on me</Description>
+				<Name>Geavanceerde schaduwen</Name>
+				<Description></Description>
 			</Feature>
 			<Feature Name="Shadows">
-				<Name>Shadows</Name>
-				<Description>A very CREATIVE feature</Description>
+				<Name>Schaduwen</Name>
+				<Description>Een hele creatieve functie</Description>
 			</Feature>
 			<Feature Name="PC speaker">
-				<Name>PC speaker</Name>
+				<Name>PC luidspreker</Name>
 			</Feature>
 			<Feature Name="8-bit audio">
 				<Name>8-bit audio</Name>
@@ -249,26 +249,26 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 				<Name>Networking</Name>
 			</Feature>
 			<Feature Name="Physics">
-				<Name>Physics</Name>
+				<Name>Fysica</Name>
 			</Feature>
 			<Feature Name="Scripting">
 				<Name>Scripting</Name>
-				<Description>Seperate the game logic from the logic logic</Description>
+				<Description></Description>
 			</Feature>
 			<Feature Name="Visual scripting">
-				<Name>Visual scripting</Name>
-				<Description>It's like programming, but you use the mouse more</Description>
+				<Name>Visueel scripting</Name>
+				<Description>Net zoals als programmeren, maar meer met je muis</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Game">
 		<Name>Game</Name>
-		<Description>Interactive art.</Description>
+		<Description>Interactieve kunst.</Description>
 		<Features>
 			<Feature Name="Text-based">
-				<Name>Text-based</Name>
-				<Description>Make the player type a novel to complete the game</Description>
+				<Name>Op tekst gebaseerd</Name>
+				<Description></Description>
 			</Feature>
 			<Feature Name="2D graphics">
 				<Name>2D graphics</Name>
@@ -281,48 +281,48 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 				<Description>Virtual Reality</Description>
 			</Feature>
 			<Feature Name="Physics">
-				<Name>Physics</Name>
+				<Name>Fysica</Name>
 				<Description>Bouncy stuff</Description>
 			</Feature>
 			<Feature Name="Music">
-				<Name>Music</Name>
+				<Name>Muziek</Name>
 			</Feature>
 			<Feature Name="Dialog">
-				<Name>Dialog</Name>
+				<Name>Dialoog</Name>
 			</Feature>
 			<Feature Name="Open world">
-				<Name>Open world</Name>
+				<Name>Open wereld</Name>
 			</Feature>
 			<Feature Name="AI">
 				<Name>AI</Name>
 			</Feature>
 			<Feature Name="Local multiplayer">
-				<Name>Local multiplayer</Name>
+				<Name>Lokale multiplayer</Name>
 			</Feature>
 			<Feature Name="Multiplayer">
 				<Name>Multiplayer</Name>
-				<Description>Facilitate the screaming of obscenities by teenagers from all over the world</Description>
+				<Description>Maakt het makkelijker voor tieners om lelijke woorden te schreeuwen over op de wereld</Description>
 			</Feature>
 			<Feature Name="MMO">
 				<Name>MMO</Name>
 			</Feature>
 			<Feature Name="Mod support">
-				<Name>Mod support</Name>
-				<Description>You can mod this feature out of the game if you want</Description>
+				<Name>Mod ondersteuning</Name>
+				<Description>Je kan deze functie uit de game modden als je wilt</Description>
 			</Feature>
 			<Feature Name="Touch support">
-				<Name>Touch support</Name>
+				<Name>Touch ondersteuning</Name>
 			</Feature>
 			<Feature Name="Advanced input">
-				<Name>Advanced input</Name>
-				<Description>Wheels, joysticks, etc.</Description>
+				<Name>Geavanceerde invoer</Name>
+				<Description>Stuurwielen, Joy-stick enz.</Description>
 			</Feature>
 			<Feature Name="Cutscenes">
 				<Name>Cutscenes</Name>
 			</Feature>
 			<Feature Name="Advanced cutscenes">
-				<Name>Advanced cutscenes</Name>
-				<Description>Reflect player choices in the story by rendering cutscenes in realtime</Description>
+				<Name>Geavanceerde cutscenes</Name>
+				<Description>Reflecteerd de keuzes van de speler</Description>
 			</Feature>
 			<Feature Name="Motion capture">
 				<Name>Motion capture</Name>
@@ -334,14 +334,14 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 				<Description>Role Playing Game</Description>
 			</Category>
 			<Category Name="Adventure">
-				<Name>Adventure</Name>
+				<Name>Avontuur</Name>
 			</Category>
 			<Category Name="Simulation">
-				<Name>Simulation</Name>
-				<Description>You're playing one!</Description>
+				<Name>Simulatie</Name>
+				<Description>Je speelt er nu een!</Description>
 			</Category>
 			<Category Name="Sports">
-				<Name>Sports</Name>
+				<Name>Sport</Name>
 			</Category>
 			<Category Name="RTS">
 				<Name>RTS</Name>
@@ -354,58 +354,58 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 		</Categories>
 	</Software>
 	<Software Name="Office Software">
-		<Name>Office Software</Name>
+		<Name>Kantoorsoftware</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Word processor">
-				<Name>Word processor</Name>
+				<Name>Tekstverwerker</Name>
 			</Feature>
 			<Feature Name="WYSIWYG">
 				<Name>WYSIWYG</Name>
 				<Description>What You See Is What You Get</Description>
 			</Feature>
 			<Feature Name="Spellcheck">
-				<Name>Spellcheck</Name>
-				<Description>Make everyone seem competent</Description>
+				<Name>Spellingscontrole</Name>
+				<Description>Laat iedereen incapabel lijken</Description>
 			</Feature>
 			<Feature Name="Auto layout">
-				<Name>Auto layout</Name>
-				<Description>i.e. spending 30 minutes trying to make the picture fit in the place</Description>
+				<Name>Automatische lay-out</Name>
+				<Description>Om te voorkomen dat je een half uur doet om een afbeelding in plaats te krijgen</Description>
 			</Feature>
 			<Feature Name="Spreadsheet">
 				<Name>Spreadsheet</Name>
 			</Feature>
 			<Feature Name="Custom functions">
-				<Name>Custom functions</Name>
-				<Description>A spreadsheet can always get more complicated</Description>
+				<Name>Custom functies</Name>
+				<Description>Een spreadsheat kan altijd ingewikkelder</Description>
 			</Feature>
 			<Feature Name="Charts">
-				<Name>Charts</Name>
+				<Name>Grafieken</Name>
 			</Feature>
 			<Feature Name="Presentation">
-				<Name>Presentation</Name>
+				<Name>Presentaties</Name>
 			</Feature>
 			<Feature Name="Vector graphics">
-				<Name>Vector graphics</Name>
-				<Description>Lines, boxes and circles, basically</Description>
+				<Name>Vectorafbeeldingen</Name>
+				<Description>Lijnen, vierkanten en rondjes</Description>
 			</Feature>
 			<Feature Name="Animations">
-				<Name>Animations</Name>
-				<Description>What better way to make your presention seem cheesy</Description>
+				<Name>Animaties</Name>
+				<Description>De beste manier om je presentatie episch eruit te laten zien</Description>
 			</Feature>
 			<Feature Name="Sound effects">
-				<Name>Sound effects</Name>
-				<Description>And this is our projected earnings for the next fiscal year *pew* *pew*</Description>
+				<Name>Geluids effecten</Name>
+				<Description>En dit is onze verwachte winst volgend jaar, "PFEW PFEW"</Description>
 			</Feature>
 			<Feature Name="Templates">
-				<Name>Templates</Name>
+				<Name>Sjablonen</Name>
 			</Feature>
 			<Feature Name="Clipart">
 				<Name>Clipart</Name>
 			</Feature>
 			<Feature Name="Scripting">
 				<Name>Scripting</Name>
-				<Description>Because you can never satisfy everyone</Description>
+				<Description>Om dat je nooit iedereen tevreden kan houden</Description>
 			</Feature>
 			<Feature Name="Online backup">
 				<Name>Online backup</Name>
@@ -415,101 +415,101 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="CMS">
 		<Name>CMS</Name>
-		<Description>A Content Management System is mostly used for the very specific task of managing content</Description>
+		<Description>Een "Content Management System" word vaak gebruikt voor hele specifieke taken</Description>
 		<Features>
 			<Feature Name="File management">
-				<Name>File management</Name>
+				<Name>Bestanden beheer</Name>
 			</Feature>
 			<Feature Name="Visualization tools">
-				<Name>Visualization tools</Name>
+				<Name>Visualisatie tools</Name>
 			</Feature>
 			<Feature Name="WYSIWYG">
 				<Name>WYSIWYG</Name>
 				<Description>What You See Is probably What You Get</Description>
 			</Feature>
 			<Feature Name="Community">
-				<Name>Community</Name>
-				<Description>The internet needs more comment sections</Description>
+				<Name>Gemeenschap</Name>
+				<Description>Het internet heeft meer comments nodig</Description>
 			</Feature>
 			<Feature Name="Widgets">
 				<Name>Widgets</Name>
-				<Description>Also known as social media buttons</Description>
+				<Description>Ook bekend als sociaalmedia knopen</Description>
 			</Feature>
 			<Feature Name="Themes">
-				<Name>Themes</Name>
+				<Name>Thema's</Name>
 			</Feature>
 			<Feature Name="GUI">
 				<Name>GUI</Name>
 				<Description>Graphical User Interface</Description>
 			</Feature>
 			<Feature Name="Bank integration">
-				<Name>Bank integration</Name>
+				<Name>Bank intergratie</Name>
 			</Feature>
 			<Feature Name="Document generation">
-				<Name>Document generation</Name>
-				<Description>Invoices for everyone</Description>
+				<Name>Document genereren</Name>
+				<Description>Facturen voor iedereen</Description>
 			</Feature>
 			<Feature Name="Statistics">
-				<Name>Statistics</Name>
+				<Name>Statistieken</Name>
 			</Feature>
 			<Feature Name="User hierarchy">
-				<Name>User hierarchy</Name>
+				<Name>Gebruikershiërarchie</Name>
 			</Feature>
 			<Feature Name="Work delegation">
-				<Name>Work delegation</Name>
-				<Description>Alternatively, run around the office screaming tasks at people</Description>
+				<Name>Werk delegatie</Name>
+				<Description>Alternatief, ren door het kantoor en schreeuw opdrachten naar iedereen</Description>
 			</Feature>
 			<Feature Name="Synchronization">
-				<Name>Synchronization</Name>
-				<Description>Or send floppy disk around once in a while</Description>
+				<Name>Synchronisatie</Name>
+				<Description>Of geef een floppy disk af en toe door.</Description>
 			</Feature>
 		</Features>
 		<Categories>
 			<Category Name="Web Publishing">
 				<Name>Web Publishing</Name>
-				<Description>To avoid forcing bloggers to do backend webprograming</Description>
+				<Description>Zodat bloggers geen back-end hoeven te programmeren</Description>
 			</Category>
 			<Category Name="Financial">
-				<Name>Financial</Name>
-				<Description>Help businesses keep track of their money</Description>
+				<Name>Financieel</Name>
+				<Description>Helpt bedrijven met geldzaken</Description>
 			</Category>
 			<Category Name="Workflow">
 				<Name>Workflow</Name>
-				<Description>The virtual whiteboard</Description>
+				<Description>Een virtueel whiteboard</Description>
 			</Category>
 		</Categories>
 	</Software>
 	<Software Name="Antivirus">
 		<Name>Antivirus</Name>
-		<Description>Protecting computers from digital troublemakers since it became profitable to do so.</Description>
+		<Description>Beveiligd computers van digitalen gevaren.</Description>
 		<Features>
 			<Feature Name="File scan">
-				<Name>File scan</Name>
+				<Name>Bestanden scan</Name>
 			</Feature>
 			<Feature Name="User interface">
-				<Name>User interface</Name>
-				<Description>Make it easy for the user to manage their virus handling</Description>
+				<Name>Gebruikersinterface</Name>
+				<Description>Maakt het makkelijker om virussen af te handelen</Description>
 			</Feature>
 			<Feature Name="Firewall">
 				<Name>Firewall</Name>
 			</Feature>
 			<Feature Name="Background scan">
-				<Name>Background scan</Name>
-				<Description>Scan for viruses in the background causing hilarious file locks randomly</Description>
+				<Name>Achtergrond scan</Name>
+				<Description>Scant voor virussen op de achtergrond</Description>
 			</Feature>
 			<Feature Name="Mail scan">
 				<Name>Mail scan</Name>
-				<Description>There's always room for enlargement</Description>
+				<Description></Description>
 			</Feature>
 			<Feature Name="Virus database">
 				<Name>Virus database</Name>
-				<Description>Automagically keep your user's virus definitions up to date</Description>
+				<Description>Houd de virussen van uw gebruikers automatisch up-to-date</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Logistics Application">
-		<Name>Logistics Application</Name>
+		<Name>Logistieke toepassing</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Commandline">
@@ -522,7 +522,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 				<Name>Database</Name>
 			</Feature>
 			<Feature Name="Third-party integration">
-				<Name>Third-party integration</Name>
+				<Name>Intergratie voor derden</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
@@ -532,16 +532,16 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 		<Description></Description>
 		<Features>
 			<Feature Name="Static pages">
-				<Name>Static pages</Name>
+				<Name>Statische pagina's</Name>
 			</Feature>
 			<Feature Name="Image gallery">
-				<Name>Image gallery</Name>
+				<Name>Afbeeldingengalerij</Name>
 			</Feature>
 			<Feature Name="Dynamic pages">
-				<Name>Dynamic pages</Name>
+				<Name>Dynamische pagina's</Name>
 			</Feature>
 			<Feature Name="Store">
-				<Name>Store</Name>
+				<Name>Winkel</Name>
 			</Feature>
 			<Feature Name="Database">
 				<Name>Database</Name>
@@ -557,38 +557,38 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 				<Name>2D art</Name>
 			</Feature>
 			<Feature Name="User interface graphics">
-				<Name>User interface graphics</Name>
+				<Name>Gebruikersinterface graphics</Name>
 			</Feature>
 			<Feature Name="Sound effects">
-				<Name>Sound effects</Name>
+				<Name>Geluidseffecten</Name>
 			</Feature>
 			<Feature Name="Music">
-				<Name>Music</Name>
+				<Name>Muziek</Name>
 			</Feature>
 			<Feature Name="Written Dialogue">
-				<Name>Written Dialogue</Name>
+				<Name>Geschreven dialoog</Name>
 			</Feature>
 			<Feature Name="3D models">
-				<Name>3D models</Name>
+				<Name>3D modellen</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Embedded System">
-		<Name>Embedded System</Name>
+		<Name>Embedded Systeem</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Clock">
-				<Name>Clock</Name>
+				<Name>Klok</Name>
 			</Feature>
 			<Feature Name="Thermostat">
-				<Name>Thermostat</Name>
+				<Name>Thermostaat</Name>
 			</Feature>
 			<Feature Name="Motor">
 				<Name>Motor</Name>
 			</Feature>
 			<Feature Name="User interface">
-				<Name>User interface</Name>
+				<Name>Gebruikersinterface</Name>
 			</Feature>
 			<Feature Name="GPS">
 				<Name>GPS</Name>
@@ -601,7 +601,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Feature Name="QA">
 		<Name>QA</Name>
-		<Description>Use Quality Assurance to release a more stable product or fix the bugs as your customers irritably stumble into them</Description>
+		<Description>Gebruik "Quality Assurance" voor en stabieler product of repareren van foutjes </Description>
 	</Feature>
 </Software>
 

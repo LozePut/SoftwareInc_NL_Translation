@@ -1,10 +1,10 @@
 <Furniture>
 	<Furniture Name="Elevator">
 		<Name>Lift</Name>
-		<Description>Plaats liften op elkaar om ze te verbinden</Description>
+		<Description>Plaats liften boven elkaar om ze te verbinden</Description>
 	</Furniture>
 	<Furniture Name="Stairs">
-		<Name>Trappen</Name>
+		<Name>Trap</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Table">
@@ -29,18 +29,18 @@
 	</Furniture>
 	<Furniture Name="Cheap Chair">
 		<Name>Goedkope stoel</Name>
-		<Description>Niet comfortabele, plastic stoel</Description>
+		<Description>Een niet comfortabele, plastic stoel</Description>
 		<Color1>Seat</Color1>
 		<Color2>Support</Color2>
 	</Furniture>
 	<Furniture Name="Office Chair">
-		<Name>Kantoor stoel</Name>
+		<Name>Bureaustoel</Name>
 		<Description>Mooie ondersteunde stoel, maar geen wielen</Description>
 		<Color1>Seat</Color1>
 		<Color2>Back</Color2>
 		<Color3>Support</Color3>
 	</Furniture>
-	<Furniture Name="Waiting Chair">
+	<Furniture Name="Waiting Chairs">
 		<Name>Wacht stoel</Name>
 		<Description></Description>
 		<Color1>Frame</Color1>
@@ -48,7 +48,7 @@
 	</Furniture>
 	<Furniture Name="Couch">
 		<Name>Rustbank</Name>
-		<Description>Leef ruimte Inc.</Description>
+		<Description></Description>
 		<Color1>Fabric</Color1>
 	</Furniture>
 	<Furniture Name="Bench">
@@ -58,8 +58,8 @@
 		<Color2>Support</Color2>
 	</Furniture>
 	<Furniture Name="Small Heater">
-		<Name>Kleine verwarmer</Name>
-		<Description>Kleine verwarmer voor uw basis kantoor behoeften</Description>
+		<Name>Kleine verwarming</Name>
+		<Description>Kleine verwarming voor uw basis kantoor behoeften</Description>
 		<Color1>Base</Color1>
 	</Furniture>
 	<Furniture Name="Ceiling Fan">
@@ -145,7 +145,7 @@
 		<Color3>Lighting</Color3>
 	</Furniture>
 	<Furniture Name="Floor Lamp">
-		<Name>Vloer Lamp</Name>
+		<Name>Staande lamp</Name>
 		<Description>Maakt licht, maar staat ook in de weg</Description>
 		<Color1>Shade</Color1>
 		<Color2>Support</Color2>
@@ -186,12 +186,12 @@
 		<Color1>Pot</Color1>
 	</Furniture>
 	<Furniture Name="Coffee">
-		<Name>Koffie</Name>
+		<Name>Koffiemachine</Name>
 		<Description>Uw standaard gemalen koffie machine</Description>
 		<Color1>Base</Color1>
 	</Furniture>
 	<Furniture Name="Espresso Machine">
-		<Name>Espresso Machine</Name>
+		<Name>Espresso machine</Name>
 		<Description>Levert hoge kwaliteit koffie door luid te ijn en door het verbruiken van water, electriciteit en onderhoud</Description>
 		<Color1>Base</Color1>
 		<Color2>Pot</Color2>
@@ -228,22 +228,22 @@
 		<Color1>Base</Color1>
 	</Furniture>
 	<Furniture Name="Floor Plant">
-		<Name>Vloer Plant</Name>
+		<Name>Staande plant</Name>
 		<Description>Een charmante vloer plant</Description>
 		<Color1>Pot</Color1>
 	</Furniture>
 	<Furniture Name="Table Plant">
-		<Name>Tafel Plant</Name>
+		<Name>Tafel plant</Name>
 		<Description>Een boom voor op je tafel</Description>
 		<Color1>Pot</Color1>
 	</Furniture>
 		<Furniture Name="Table Cactus">
-		<Name>Tafel Cactus</Name>
+		<Name>Tafel cactus</Name>
 		<Description></Description>
 		<Color1>Pot</Color1>
 	</Furniture>
 	<Furniture Name="Big Plant">
-		<Name>Grote Plant</Name>
+		<Name>Grote plant</Name>
 		<Description>Neemt veel ruimte in beslag, maar werknemers zijn ermee eens omdat het er leuk uitziet</Description>
 		<Color1>Pot</Color1>
 	</Furniture>
@@ -253,7 +253,7 @@
 		<Color1>Pot</Color1>
 	</Furniture>
 	<Furniture Name="Small pine tree">
-		<Name>Kleine dennenboom</Name>
+		<Name>Kleine denneboom</Name>
 		<Description></Description>
 		<Color1>Pot</Color1>
 	</Furniture>
@@ -274,7 +274,7 @@
 		<Color1>Casing</Color1>
 	</Furniture>
 	<Furniture Name="Tower Server">
-		<Name>Toren Server</Name>
+		<Name>Tower Server</Name>
 		<Description>Een hoge prestatie toren(Niet een echte toren)</Description>
 		<Color1>Casing</Color1>
 		<Color2>Lighting</Color2>
@@ -325,15 +325,15 @@
 		<Description></Description>
 	</Segment>
 	<Segment Name="Small window">
-		<Name>Klein Raam</Name>
+		<Name>Klein raam</Name>
 		<Description>Volkomen nutteloos als het geplaatst wordt tussen de kamers</Description>
 	</Segment>
 	<Segment Name="Large window">
-		<Name>Grote Raam</Name>
+		<Name>Grote raam</Name>
 		<Description>Als je nog meer ramen wilt</Description>
 	</Segment>
 	<Segment Name="Wide window">
-		<Name>Breed Raam</Name>
+		<Name>Breed raam</Name>
 		<Description>Voor de Wat-Is-Dit-Een-Breed-Raam ervaring</Description>
 	</Segment>
 	<Segment Name="Arched gate">
